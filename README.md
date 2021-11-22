@@ -4,8 +4,6 @@
 - 💞️ If anyone wants to collaborate or need help in the following languages; Java, Python, C, C+ and C# please contact me at the email provided below.
 - 📫 Reach me here :  mujtaba.ehtesham335@gmail.com
 
-
-HOPE YOU ENJOYED YOUR STAY HERE!!!
 <!---
 mujtaba65/mujtaba65 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
